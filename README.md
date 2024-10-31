@@ -66,16 +66,20 @@ This project was created by:
     # WINDOWS
         python main.py
 
-📝 Usage
+
+# 📝 Usage
+
 There are multiple routes available for data extractions and report generation. Data is extracted directly from Hubspot and Facebook APIs, processed, and stored in the database. A history is maintained for both Facebook and Hubspot data as well as generated reports, organized by year, month, and day to make searches and queries more efficient.
 
-📖 Documentation
+# 📖 Documentation
+
 You can find more details about the project implementation and usage in the Documentation Repository.
 
-📜 License
+# 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📬 Contact
+# 📬 Contact
 If you have any questions or suggestions, feel free to contact the authors:
 
 AxierPer - axierperlaz2018@gmail.com
