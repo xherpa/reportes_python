@@ -22,9 +22,12 @@ Here are the links to the different repositories for the project:
 ## 👥 Authors
 
 This project was created by:
-
-- **[AxierPer](https://github.com/AxierPer)** - [axierperlaz2018@gmail.com](mailto:axierperlaz2018@gmail.com)
-- **[HiDETORAx64](https://github.com/HiDETORAx64)** - [sebastianfrancoh@hotmail.com](mailto:sebastianfrancoh@hotmail.com)
+- **AxierPer**
+  - **[AxierPer](https://github.com/AxierPer)** - [axierperlaz2018@gmail.com](mailto:axierperlaz2018@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axier-perlaza-044866274/)
+- **HiDETORAx64**
+  - **[HiDETORAx64](https://github.com/HiDETORAx64)** - [sebastianfrancoh@hotmail.com](mailto:sebastianfrancoh@hotmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-felipe-franco-herrera/)
 
 ---
 
