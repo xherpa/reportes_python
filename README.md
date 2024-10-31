@@ -59,13 +59,12 @@ This project was created by:
 
 4. Run the project:
 
-   ```bash 
-    > [!NOTE]
-    >En caso de linux
-    python3 main.py
-    > [!NOTE]
-    > En caso de Windows
-    python main.py
+    ```bash
+    # LINUX
+        python3 main.py
+
+    # WINDOWS
+        python main.py
 
 📝 Usage
 There are multiple routes available for data extractions and report generation. Data is extracted directly from Hubspot and Facebook APIs, processed, and stored in the database. A history is maintained for both Facebook and Hubspot data as well as generated reports, organized by year, month, and day to make searches and queries more efficient.
@@ -81,6 +80,5 @@ If you have any questions or suggestions, feel free to contact the authors:
 
 AxierPer - axierperlaz2018@gmail.com
 HiDETORAx64 - sebastianfrancoh@hotmail.com
-
-Made with ❤️ in Python.
+Made with ❤️ in Python
 ---
