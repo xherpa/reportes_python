@@ -1,9 +1,6 @@
 import hubspot
 from hubspot.crm.contacts import PublicObjectSearchRequest, ApiException
-from dotenv import load_dotenv
-import os
-
-HUBSPOT_TOKEN = os.getenv("HUBSPOT_TOKEN")
+from config.config import HUBSPOT_TOKEN
 
 api_client = hubspot.Client.create(access_token=HUBSPOT_TOKEN)
 

@@ -1,6 +1,6 @@
 import json
 from .database_conexion import connect_to_mysql, close_connection
-from mysql.connector import Error
+from pg import Error
 
 db = connect_to_mysql()
 

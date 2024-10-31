@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "reportes-python"
+version = "0.1.0"
+description = "This Python-based application extracts data from Facebook and HubSpot. The extracted data is subsequently utilized to generate a comprehensive report and facilitate statistical analysis. This represents the initial beta release of the application."
+authors = ["AxierPer <axierperlaz2018@gmail.com> (https://github.com/AxierPer)", "HiDETORAx64 <sebastianfrancoh@hotmail.com> (https://github.com/HiDETORAx64)"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+Flask = "3.0.3"
+hubspot-api-client = "10.0.0"
+PyGreSQL = "6.0.1"
+requests = "2.32.3"
+python-dotenv = "1.0.1"
+simplejson = "3.19.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
