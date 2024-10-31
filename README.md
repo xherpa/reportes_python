@@ -79,6 +79,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or suggestions, feel free to contact the authors:
 
 AxierPer - axierperlaz2018@gmail.com
+
 HiDETORAx64 - sebastianfrancoh@hotmail.com
 
 Made with ❤️ in Python
